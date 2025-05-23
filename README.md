@@ -54,10 +54,6 @@ Este projeto consiste em um cartão contendo um QR Code com o objetivo de direci
 - Como usar bordas arredondadas e sombras sutis.
 - Melhoria de tipografia e responsividade básica com CSS.
 
-## 📸 Captura de tela
-
-![Preview](./c5d94819-01aa-450b-9531-39cf0e726116.png)
-
 ## 🚀 Como visualizar
 
 Você pode abrir o arquivo `index.html` diretamente em seu navegador ou fazer o deploy com GitHub Pages ou qualquer serviço de hospedagem estática.
