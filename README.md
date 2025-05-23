@@ -1,19 +1,19 @@
-# QR Code Component
+# 📦 QR Code Component
 
 Este é um pequeno projeto de componente de QR Code, desenvolvido com **HTML** e **CSS**, baseado em um desafio do [Frontend Mentor](https://www.frontendmentor.io/).
 
 ![Screenshot do Projeto](img/projetoFinalizado.png)
 
-# Guia de Estilo Front-end
+# 🎨 Guia de Estilo Front-end
 
-## Layout
+## 📐 Layout
 
 Os designs foram criados com as seguintes larguras:
 
 - Mobile: 375px
 - Desktop: 1440px
 
-## Cores
+## 🎨 Cores
 
 - Branco: hsl(0, 0%, 100%)
 
@@ -21,17 +21,16 @@ Os designs foram criados com as seguintes larguras:
 - Cinza Médio (Slate 500): hsl(216, 15%, 48%)
 - Cinza Escuro (Slate 900): hsl(218, 44%, 22%)
 
-## Tipografia
+## 🔤 Tipografia
 
-### Texto do Corpo
+### 📝 Texto do Corpo
 
 - Tamanho da fonte (parágrafo): 15px
 
-### Fonte
+### 🔠 Fonte
 
 - Família: [Outfit](https://fonts.google.com/specimen/Outfit)
 - Pesos: 400, 700
-
 
 ## 📚 Descrição
 
