@@ -55,7 +55,7 @@ Este projeto consiste em um cartão contendo um QR Code com o objetivo de direci
 
 ## 🚀 Como visualizar
 
-Você pode abrir o arquivo `index.html` diretamente em seu navegador ou fazer o deploy com GitHub Pages ou qualquer serviço de hospedagem estática.
+Para visualizar melhor, basta clicar nesse link: https://chris-valentim.github.io/QR-Code/
 
 ## 📝 Licença
 
