@@ -2,7 +2,7 @@
 
 Este é um pequeno projeto de componente de QR Code, desenvolvido com **HTML** e **CSS**, baseado em um desafio do [Frontend Mentor](https://www.frontendmentor.io/).
 
-![Screenshot do Projeto](img/projetoFinalizado.png)
+![Screenshot do Projeto](projetoFinalizado.png)
 
 # 🎨 Guia de Estilo Front-end
 
